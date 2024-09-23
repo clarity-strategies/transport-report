@@ -35,6 +35,9 @@ p{
     color: white;
 
 }
+.grid-container h2::before{
+    content: url(https://res.cloudinary.com/clarity-strategies/image/upload/v1727104126/lupa.png)
+}
 .auto-grid {
     
     font-size: 1.3rem;
