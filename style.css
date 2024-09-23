@@ -31,6 +31,7 @@ p{
 .grid-container{
     background-color: #351a4d;
     padding: 2rem;
+    margin: 1rem;
 }
 .grid-container h2{
     color: white;
