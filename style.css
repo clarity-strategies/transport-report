@@ -3,7 +3,8 @@ html{
 }
 h1{
     font-size: 3.5rem;  
-    color: #ad1639ff
+    color: #ad1639ff;
+    font-weight: 900;
 }
 h2{
     color:firebrick;
@@ -21,6 +22,7 @@ iframe{
 }
 p{
     font-size: 1.3rem;
+    line-height:1.8rem;
     padding: 1rem;
 }
 .col2{
