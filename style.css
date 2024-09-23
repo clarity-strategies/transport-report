@@ -15,9 +15,8 @@ section{
     width: 1200px;
 }
 iframe{
-    xpadding: 2rem;
-    xborder-radius: 60px;
-    xborder: 1px solid black;
+    margin-inline: auto;
+    width: 900px;
     
 }
 p{
