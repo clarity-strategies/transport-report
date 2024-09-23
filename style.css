@@ -15,8 +15,8 @@ section{
     width: 1200px;
 }
 iframe{
-    margin-inline: auto;
-    width: 900px;
+
+    margin-left: 3rem;
     
 }
 p{
@@ -30,7 +30,6 @@ p{
 }
 .grid-container{
     background-color: #351a4d;
-    margin: 3rem;
     padding: 2rem;
 }
 .grid-container h2{
