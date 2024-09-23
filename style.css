@@ -27,7 +27,7 @@ p{
       column-gap: 2rem;
 }
 .grid-container{
-    background-color: rgb(56, 2, 74);
+    background-color: #351a4d;
     margin: 3rem;
     padding: 2rem;
 }
@@ -36,7 +36,8 @@ p{
 
 }
 .grid-container h2::before{
-    content: url(https://res.cloudinary.com/clarity-strategies/image/upload/v1727104126/lupa.png)
+    content: url(https://res.cloudinary.com/clarity-strategies/image/upload/v1727104126/lupa.png);
+    height: 64px;
 }
 .auto-grid {
     
