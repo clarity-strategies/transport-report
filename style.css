@@ -15,9 +15,9 @@ section{
     width: 1200px;
 }
 iframe{
-    padding: 2rem;
-    border-radius: 60px;
-    border: 1px solid black;
+    xpadding: 2rem;
+    xborder-radius: 60px;
+    xborder: 1px solid black;
     
 }
 p{
